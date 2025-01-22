@@ -9,9 +9,12 @@ This project aims to use multiple sensors to track the situation of pancreatitis
 
 
 ## Sensing Device
+This device is designed based on the easy-to-carry and convenient features of a changeable wearable device that could be applied to different places, such as necklace, rings.
+
+
 • Hamamatsu G11193-10R: have spectral response detected to measure blood sugar. 
 
-•   MAX30100: Heart rate sensor, track the heart rate which may reflect the signals of pain, warn users if there are unusual heart rate patterns
+• MAX30100: Heart rate sensor, track the heart rate which may reflect the signals of pain, warn users if there are unusual heart rate patterns
 
 Technical details:
 •   Connection: Wireless through Bluetooth or Wi-Fi
@@ -25,8 +28,10 @@ Technical details:
 ![2](assets/IMG_9129_2.jpg)
 
 ## Display Device
-Display device: I aim to use a stepper-motor-driven gauge needle, a display screen, and a LED to track and display abnormal activities to alert users.
-•   A stepper-motor-driven gauge needle to indicate when there is abnormal activity in changes of blood sugar / heart rate / pressure levels
+I aim to use a stepper-motor-driven gauge needle, a display screen, and a LED to track and display abnormal activities to alert users. This device is designed based on the main function to display the important information. It should be touchable on the skin to detect the blood sugar. The final display design is shown as the first session.
+
+
+•   A stepper-motor-driven gauge needle to indicate when there is abnormal activity in changes of blood sugar / heart rate / pulse oximetry level
 
 •   Additional warning signs by LED when unusual activities occur in order to alert user
 
