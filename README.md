@@ -22,7 +22,7 @@ Technical details:
 
 •   Processing: collect data (blood sugar, heart rate, and pulse oximetry from the sensors, process and generate real time results. Specifically process the blood sugar values. Filter the results from sensors and set thresholds to process signals.
 
-![2](assets/IMG_9129 2.jpg)
+![2](assets/IMG_9129_2.jpg)
 
 ## Display Device
 Display device: I aim to use a stepper-motor-driven gauge needle, a display screen, and a LED to track and display abnormal activities to alert users.
@@ -44,11 +44,11 @@ Technical details:
 
 •   Processing: Based on the signals, display the output and alert users by LED, stepper-motor-driven gauge needle, and screen when the real time values exceed the preset thresholds.
 
-![3](assets/IMG_9129 3.jpg)
+![3](assets/IMG_9129_3.jpg)
 
 
 ## Connection & Communication Diagram
 
-![5](assets/Slide 16_9 - 1.jpg)
+![5](assets/Slide_16_9_1.jpg)
 
-![6](assets/Slide 16_9 - 3.jpg)
+![6](assets/Slide_16_9_3.jpg)
