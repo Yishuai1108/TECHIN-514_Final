@@ -15,7 +15,7 @@ Technical details:
 •   Microcontroller: Arduino / ESP-32 / Seeed Studio XIAO
 •   Processing: collect data (blood sugar, heart rate, and pulse oximetry from the sensors, process and generate real time results. Specifically process the blood sugar values. Filter the results from sensors and set thresholds to process signals.
 
-![1](assets/IMG_9128)
+![1](assets/IMG_9128.jpg)
 
 
 ## Display Device
