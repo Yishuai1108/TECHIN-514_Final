@@ -49,6 +49,6 @@ Technical details:
 
 ## Connection & Communication Diagram
 
-![5](assets/Slide_1.jpg)
+![5](assets/Slide_1.png)
 
-![6](assets/Slide_2.jpg)
+![6](assets/Slide_2.png)
